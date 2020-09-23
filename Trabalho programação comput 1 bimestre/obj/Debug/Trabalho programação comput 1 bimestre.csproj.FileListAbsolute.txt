@@ -1,0 +1,10 @@
+C:\Users\Lucas\source\repos\Trabalho programação comput 1 bimestre\bin\Debug\Trabalho programação comput 1 bimestre.exe.config
+C:\Users\Lucas\source\repos\Trabalho programação comput 1 bimestre\bin\Debug\Trabalho programação comput 1 bimestre.exe
+C:\Users\Lucas\source\repos\Trabalho programação comput 1 bimestre\bin\Debug\Trabalho programação comput 1 bimestre.pdb
+C:\Users\Lucas\source\repos\Trabalho programação comput 1 bimestre\obj\Debug\Trabalho programação comput 1 bimestre.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\Trabalho programação comput 1 bimestre\obj\Debug\Trabalho_programação_comput_1_bimestre.Form1.resources
+C:\Users\Lucas\source\repos\Trabalho programação comput 1 bimestre\obj\Debug\Trabalho_programação_comput_1_bimestre.Properties.Resources.resources
+C:\Users\Lucas\source\repos\Trabalho programação comput 1 bimestre\obj\Debug\Trabalho programação comput 1 bimestre.csproj.GenerateResource.cache
+C:\Users\Lucas\source\repos\Trabalho programação comput 1 bimestre\obj\Debug\Trabalho programação comput 1 bimestre.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Trabalho programação comput 1 bimestre\obj\Debug\Trabalho programação comput 1 bimestre.exe
+C:\Users\Lucas\source\repos\Trabalho programação comput 1 bimestre\obj\Debug\Trabalho programação comput 1 bimestre.pdb
